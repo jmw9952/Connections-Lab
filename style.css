@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://80a12acdf128618db717-c22bdc94c381e6a71ffe213927c1cf90.ssl.cf1.rackcdn.com/heavens3M.gif);
+    background-size: 100vw 100vh;
+
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-size: 50px;
+    font-style: normal;
+
+    text-align: center;
+    text-shadow: 2px 2px 2px #000000; 
+    /* text-shadow: 0.05em 0 black, 0 0.05em black, -0.05em 0 black, 0 -0.05em black, -0.05em -0.05em black, -0.05em 0.05em black, 0.05em -0.05em black, 0.05em 0.05em black; */
+
+}
+
+#instructions {
+    color:aliceblue;
+    margin-bottom: 15px;
+    margin-top: 40vh;
+}
+
+.events {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
