@@ -1,0 +1,9 @@
+/* body {
+    background-image: url("https://t3.ftcdn.net/jpg/02/84/68/70/360_F_284687065_WqALgJLQAhxLlsuqz8NjYjWrts2ONbXk.jpg");
+} */
+
+.head {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
