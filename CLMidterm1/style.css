@@ -25,6 +25,17 @@ body {
 #button {
     margin-bottom: 20px;
 }
+
+.side_one {
+    flex-direction: column;
+    width: 90%;
+}
+
+.side_two {
+    flex-direction: row;
+    width: auto;
+}
+
 .book_title {
     display: flex;
     flex-direction: row;
